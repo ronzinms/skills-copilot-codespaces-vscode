@@ -16,4 +16,4 @@ app.use(cors());
 require('dotenv').config();
 
 // use mysql module
-const mysql = require('mysql')
+const mysql = require('mysql');
